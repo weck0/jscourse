@@ -12,5 +12,12 @@ var config = {
     "shim": {
         "Course_JsFun/js/jquery-log": ["jquery"]
     },
-    "deps": ["Course_JsFun/js/every-page"]
+    "deps": ["Course_JsFun/js/every-page"],
+    "config": {
+        "mixins":{
+            "Magento_Ui/js/view/messages":{
+                "Course_JsFun/js/messages-mixin": true
+            }
+        }
+    }
 }
