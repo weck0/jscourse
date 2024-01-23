@@ -346,7 +346,8 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_WishlistGraphQl' => 1,
         'Magento_WishlistSampleData' => 1,
-        'Course_JsFun' => 1,
+        'Course_FreeShippingPromo' => 1,
+        'Course_JsFun' => 0,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
         'Temando_ShippingRemover' => 1
